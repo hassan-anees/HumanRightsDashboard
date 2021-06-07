@@ -1,0 +1,13 @@
+name: uyghurdashboard
+title: uyghurdashboard
+username:
+account: hanees
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4004551
+bundleId: 4498348
+url: https://hanees.shinyapps.io/uyghurdashboard/
+when: 1618975699.75433
+lastSyncTime: 1618975699.75434
+asMultiple: FALSE
+asStatic: FALSE
