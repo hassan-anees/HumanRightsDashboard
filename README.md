@@ -1,5 +1,5 @@
 # HumanRightsDashboard
-##Description
+## Description
 This project was made in collaboration with Martina Tawedrous, Daniel Ginovker, and Samir Haq 
 The dashboard presents the growing issue of Chinese internment camps in Xinjiang.
 
